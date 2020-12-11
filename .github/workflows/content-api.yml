@@ -17,7 +17,7 @@ on:
         default: 'warning'
 
 # Environment variables are defined so that they can be used throughout the job definitions.
-env:
+env: 
   imageRepository: 'content-api'
   resourceGroupName: 'fabmedical-274539'
   containerRegistryName: 'acr274539'
